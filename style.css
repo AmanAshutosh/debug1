@@ -1,7 +1,7 @@
 /*  CSS Reset & Base Styles  */
 @font-face {
 	font-family: "Explorer";
-	src: url("./ExplorerCondensed-Bold.woff2");
+	src: url("./Explorer.ttf");
 }
 
 * {
@@ -1075,4 +1075,5 @@ img {
 	font-weight: 800;
 	font-display: swap;
 	src: url("https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf") format("truetype");
+
 }
